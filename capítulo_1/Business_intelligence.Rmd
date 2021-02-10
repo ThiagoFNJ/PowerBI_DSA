@@ -1,0 +1,16 @@
+---
+title: "Untitled"
+author: "Thiago Nogueira"
+date: "10/02/2021"
+output: html_document
+---
+
+## Dados x informação x conhecimento x inteligência
+
+*Dados são o novo petróleo*. Essa afirmação que é repetida várias vezes em diversas matérias de jornais, posts  em redes sociais e cursos online relaciona o valor que os dados têm no mercado de hoje com o do petróleo. De fato, todos os colossos da tecnologia, as empresas mais valiosas do mundo hoje, tem sua opeação beseada em dados, mesmo aquelas que começaram oferecendo tecnologia física. A analogia é bem verdadeira em um segundo nível: **dados são a matéria prima, não o produto final**. Da mesma forma que um galão de petróleo não tem valor para um caminhoneiro de aplicativo, uma tabela cheia de dados confusos e não formatados não tem valor para uma liderança de empresa, isso porque ambos precisam passar por processos de limpeza, refinamento, enriquecimento e conversão no produto final. 
+
+Uma vez que os dados são a matéria-prima, o profissional de dados busca trabalhá-los para extrair **informação**, fazendo análises e interpretações com o embasamento de métodos estatísticos e computacionais robustos. Um passo seguinte é relacionar tais informações com conhecimento de negócio e transformá-las em **conhecimento**. Podemos comparar essa etapa, com base na analogia estabelecida no começo, com o processo de enriquecimento. Isso porque para gerar conhecimento é necessário um conhecimento a mais do que as informações extraídas dos dados, entram aí a experiência do analista, o seu conhecimento sobre a área de atuação da empresa e sua capacidade de interligar pontos muitas vezes desconexos. E é com esse conhecimento que uma liderança se embasa para tomar decisões, o processo também chamado de **inteligênica**.
+
+## Business intelligence
+
+Dentro do contexto descrito, o setor privado -e mesmo o setor de serviços públicos - estão começando a ver o valor de usar dados para melhorar as suas operações. **Business intelligence**, ou inteligência de negócio, é toda uma área de conhecimento que estuda métodologias de empoderamento através do conhecimento extraído dos dados, nas mais diversas áreas dentro da própria empresa.  Existem no mercado softwares que atendem às diversas necessidades do BI, sendo capazes de tratar volumes regulares de dados e transformá-los em relatórios, dashboards e até mesmo chatbots. Contudo, à medida que esse volume aumenta e passamos à escala de big data, com petabytes e mais petabytes de dados, técnicas e ferramentas mais sofisticadas são necessárias para fazer análises, entrando em campo a inteligência artificial e a ciência de dados. 
